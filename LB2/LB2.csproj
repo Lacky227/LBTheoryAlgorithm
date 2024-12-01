@@ -94,7 +94,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\LBTheoryAlgorithm\LB1.csproj">
+    <ProjectReference Include="..\LB1\LB1.csproj">
       <Project>{d1f39b29-9aca-4dcd-8335-69c616f149b8}</Project>
       <Name>LB1</Name>
     </ProjectReference>
